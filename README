@@ -1,6 +1,6 @@
 This is a proof-of-concept game made using the Unity Engine, C#, and the pixel art creator, piskelapp. 
 
-![Gameplay Image](GameplayImages/gameplay.png)
+![Gameplay Image](/master/GameplayImages/gameplay.png)
 ![Journal Image](GameplayImages/journal.png)
 
 1. This is meant to be a roguelike, where your character levels up after killing enemies. 
