@@ -1,0 +1,12 @@
+This is a proof-of-concept game made using the Unity Engine, C#, and the pixel art creator, piskelapp. 
+
+1. This is meant to be a roguelike, where your character levels up after killing enemies. 
+2. The player can also find coins littered around the map.
+3. These coins can be spent at a shop to buy new costumes for the character. 
+4. Upon death, all leveling progress and all coins are lost, but costumes are carried over to the next death.
+5. Map generation is random, and based on 16 preset rooms that can be mixed and matched into a 4x4 grid. 
+
+Known Bugs:
+1. Upon death, xp leveling is still occuring, though the UI does not show any progress. This is due to the Unity Engine being unable to find the XP Bar after death.
+2. Costumes do not change upon use. This is due to the Unity Engine not being able to find the player character and changing its sprite (this I do not understand, because the Unity Engine always finds the model, and says that it has changed the model - but visually, nothing happens.)
+3. Shooting a spell initially does not actually visually show a spell being fired. (This, I have no idea why is happening).
