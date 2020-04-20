@@ -1,5 +1,8 @@
 This is a proof-of-concept game made using the Unity Engine, C#, and the pixel art creator, piskelapp. 
 
+[Gameplay Image](GameplayImages/gameplay.png)
+[Journal Image](GameplayImages/journal.png)
+
 1. This is meant to be a roguelike, where your character levels up after killing enemies. 
 2. The player can also find coins littered around the map.
 3. These coins can be spent at a shop to buy new costumes for the character. 
